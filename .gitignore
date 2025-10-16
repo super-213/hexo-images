@@ -1,0 +1,7 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS资源派生文件（你那种"._xxx"文件）
+._*
